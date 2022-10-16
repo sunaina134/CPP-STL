@@ -17,3 +17,9 @@ unordered map-->forward
 
 Adapters
 Queue,Stack ,Priority Queue--->dont implement iterators
+  
+
+Day2:
+Template
+Compiler creates all the function when we use template.
+Macros(preprocessor) is different from template because it dont do type checking it just replace the code,it is error prone, difficult to debug.
